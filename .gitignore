@@ -1,0 +1,9 @@
+##environment folders
+venv/
+myenv/
+.env
+.myenv
+
+##python cache
+__pycache__/
+*.py[cod]

@@ -1,0 +1,5 @@
+keycloak:
+  base_url: http://localhost:8080
+  realm: fastapi_realm
+  client_id: fast_api_client
+  client_secret: 6RXFjAHm6PtbFQI9Rc4ZQkyXEaSjzeDu
